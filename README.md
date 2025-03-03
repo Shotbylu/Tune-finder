@@ -1,14 +1,3 @@
-<h1 align="center">SeekTune :musical_note:</h1>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e4d01e9c-05cf-4f35-acbc-1e3cd79d1e00" 
-       alt="screenshot" 
-       width="500">
-</a>
-</p>
-
-<p align="center"><a href="https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view" target="_blank">Demo in Video</a></p>
 
 ## Description 🎼
 Tunefinder is an implementation of Shazam's song recognition algorithm based on insights from these [resources](#resources--card_file_box). It integrates Spotify and YouTube APIs to find and download songs.
